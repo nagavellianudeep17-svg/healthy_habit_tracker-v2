@@ -1,0 +1,385 @@
+{
+  "schema_version": 1,
+  "habits": {
+    "Reading": {
+      "unit": "min",
+      "min_value": 0.0,
+      "max_value": 480.0,
+      "daily_goal": 30.0,
+      "daily_limit": 600.0
+    },
+    "Exercise": {
+      "unit": "min",
+      "min_value": 0.0,
+      "max_value": 300.0,
+      "daily_goal": 30.0,
+      "daily_limit": 360.0
+    },
+    "Hydration": {
+      "unit": "L",
+      "min_value": 0.0,
+      "max_value": 5.0,
+      "daily_goal": 2.5,
+      "daily_limit": 6.0
+    }
+  },
+  "entries": [
+    {
+      "id": 1,
+      "date": "2026-11-09",
+      "habit": "Reading",
+      "value": 35.0,
+      "notes": "Atomic Habits, ch. 3"
+    },
+    {
+      "id": 2,
+      "date": "2026-11-09",
+      "habit": "Exercise",
+      "value": 40.0,
+      "notes": "Morning run"
+    },
+    {
+      "id": 3,
+      "date": "2026-11-09",
+      "habit": "Hydration",
+      "value": 1.2,
+      "notes": "Morning"
+    },
+    {
+      "id": 4,
+      "date": "2026-11-09",
+      "habit": "Hydration",
+      "value": 1.5,
+      "notes": "Afternoon"
+    },
+    {
+      "id": 5,
+      "date": "2026-11-10",
+      "habit": "Reading",
+      "value": 25.0,
+      "notes": "Before bed"
+    },
+    {
+      "id": 6,
+      "date": "2026-11-10",
+      "habit": "Exercise",
+      "value": 30.0,
+      "notes": "Gym - upper body"
+    },
+    {
+      "id": 7,
+      "date": "2026-11-10",
+      "habit": "Hydration",
+      "value": 2.6,
+      "notes": ""
+    },
+    {
+      "id": 8,
+      "date": "2026-11-11",
+      "habit": "Reading",
+      "value": 45.0,
+      "notes": "Sci-fi novel"
+    },
+    {
+      "id": 9,
+      "date": "2026-11-11",
+      "habit": "Exercise",
+      "value": 0.0,
+      "notes": "Rest day"
+    },
+    {
+      "id": 10,
+      "date": "2026-11-11",
+      "habit": "Hydration",
+      "value": 2.0,
+      "notes": ""
+    },
+    {
+      "id": 11,
+      "date": "2026-11-12",
+      "habit": "Reading",
+      "value": 30.0,
+      "notes": "Exactly on goal"
+    },
+    {
+      "id": 12,
+      "date": "2026-11-12",
+      "habit": "Exercise",
+      "value": 45.0,
+      "notes": "Cycling"
+    },
+    {
+      "id": 13,
+      "date": "2026-11-12",
+      "habit": "Hydration",
+      "value": 2.8,
+      "notes": ""
+    },
+    {
+      "id": 14,
+      "date": "2026-11-13",
+      "habit": "Reading",
+      "value": 0.0,
+      "notes": "Skipped - exam stress"
+    },
+    {
+      "id": 15,
+      "date": "2026-11-13",
+      "habit": "Exercise",
+      "value": 20.0,
+      "notes": "Short walk"
+    },
+    {
+      "id": 16,
+      "date": "2026-11-13",
+      "habit": "Hydration",
+      "value": 2.8,
+      "notes": ""
+    },
+    {
+      "id": 17,
+      "date": "2026-11-14",
+      "habit": "Reading",
+      "value": 60.0,
+      "notes": "Weekend read"
+    },
+    {
+      "id": 18,
+      "date": "2026-11-14",
+      "habit": "Exercise",
+      "value": 90.0,
+      "notes": "Football with friends"
+    },
+    {
+      "id": 19,
+      "date": "2026-11-14",
+      "habit": "Hydration",
+      "value": 3.2,
+      "notes": "Hot day"
+    },
+    {
+      "id": 20,
+      "date": "2026-11-15",
+      "habit": "Reading",
+      "value": 40.0,
+      "notes": "Read \"Deep Work\", pp. 40-72"
+    },
+    {
+      "id": 21,
+      "date": "2026-11-15",
+      "habit": "Exercise",
+      "value": 60.0,
+      "notes": "Yoga, stretching"
+    },
+    {
+      "id": 22,
+      "date": "2026-11-15",
+      "habit": "Hydration",
+      "value": 2.5,
+      "notes": "Hit the goal"
+    },
+    {
+      "id": 23,
+      "date": "2026-11-16",
+      "habit": "Reading",
+      "value": 20.0,
+      "notes": "Short session"
+    },
+    {
+      "id": 24,
+      "date": "2026-11-16",
+      "habit": "Exercise",
+      "value": 35.0,
+      "notes": "Jog"
+    },
+    {
+      "id": 25,
+      "date": "2026-11-16",
+      "habit": "Hydration",
+      "value": 2.2,
+      "notes": ""
+    },
+    {
+      "id": 26,
+      "date": "2026-11-17",
+      "habit": "Reading",
+      "value": 480.0,
+      "notes": "Exam prep marathon (max entry)"
+    },
+    {
+      "id": 27,
+      "date": "2026-11-17",
+      "habit": "Exercise",
+      "value": 30.0,
+      "notes": "Gym"
+    },
+    {
+      "id": 28,
+      "date": "2026-11-17",
+      "habit": "Hydration",
+      "value": 2.4,
+      "notes": ""
+    },
+    {
+      "id": 29,
+      "date": "2026-11-18",
+      "habit": "Reading",
+      "value": 15.0,
+      "notes": "Tired"
+    },
+    {
+      "id": 30,
+      "date": "2026-11-18",
+      "habit": "Exercise",
+      "value": 300.0,
+      "notes": "Charity half-marathon training (max entry)"
+    },
+    {
+      "id": 31,
+      "date": "2026-11-18",
+      "habit": "Hydration",
+      "value": 5.0,
+      "notes": "Long run recovery (max entry)"
+    },
+    {
+      "id": 32,
+      "date": "2026-11-18",
+      "habit": "Hydration",
+      "value": 1.5,
+      "notes": "Evening - limit breach day"
+    },
+    {
+      "id": 33,
+      "date": "2026-11-19",
+      "habit": "Reading",
+      "value": 30.0,
+      "notes": "Café study, chapter recap"
+    },
+    {
+      "id": 34,
+      "date": "2026-11-19",
+      "habit": "Exercise",
+      "value": 25.0,
+      "notes": "Walk"
+    },
+    {
+      "id": 35,
+      "date": "2026-11-19",
+      "habit": "Hydration",
+      "value": 2.0,
+      "notes": ""
+    },
+    {
+      "id": 36,
+      "date": "2026-11-20",
+      "habit": "Exercise",
+      "value": 40.0,
+      "notes": "Evening badminton"
+    },
+    {
+      "id": 37,
+      "date": "2026-11-20",
+      "habit": "Hydration",
+      "value": 2.7,
+      "notes": "Forgot to log reading"
+    },
+    {
+      "id": 38,
+      "date": "2026-11-21",
+      "habit": "Reading",
+      "value": 50.0,
+      "notes": "Library"
+    },
+    {
+      "id": 39,
+      "date": "2026-11-21",
+      "habit": "Exercise",
+      "value": 0.0,
+      "notes": "Rest day"
+    },
+    {
+      "id": 40,
+      "date": "2026-11-21",
+      "habit": "Hydration",
+      "value": 0.5,
+      "notes": "Forgot to drink"
+    },
+    {
+      "id": 41,
+      "date": "2026-11-22",
+      "habit": "Reading",
+      "value": 55.0,
+      "notes": "Library visit"
+    },
+    {
+      "id": 42,
+      "date": "2026-11-22",
+      "habit": "Exercise",
+      "value": 75.0,
+      "notes": "Trek"
+    },
+    {
+      "id": 43,
+      "date": "2026-11-22",
+      "habit": "Hydration",
+      "value": 3.0,
+      "notes": ""
+    },
+    {
+      "id": 44,
+      "date": "2026-11-23",
+      "habit": "Reading",
+      "value": 30.0,
+      "notes": "Back on routine"
+    },
+    {
+      "id": 45,
+      "date": "2026-11-23",
+      "habit": "Exercise",
+      "value": 30.0,
+      "notes": "Gym"
+    },
+    {
+      "id": 46,
+      "date": "2026-11-23",
+      "habit": "Hydration",
+      "value": 1.5,
+      "notes": "Morning"
+    },
+    {
+      "id": 47,
+      "date": "2026-11-23",
+      "habit": "Hydration",
+      "value": 1.2,
+      "notes": "Afternoon"
+    },
+    {
+      "id": 48,
+      "date": "2026-11-24",
+      "habit": "Reading",
+      "value": 20.0,
+      "notes": "Morning pages"
+    },
+    {
+      "id": 49,
+      "date": "2026-11-24",
+      "habit": "Exercise",
+      "value": 35.0,
+      "notes": "Walk + stretching"
+    },
+    {
+      "id": 50,
+      "date": "2026-11-24",
+      "habit": "Hydration",
+      "value": 1.0,
+      "notes": "So far today"
+    },
+    {
+      "id": 51,
+      "date": "2026-11-25",
+      "habit": "Reading",
+      "value": 90.0,
+      "notes": "high"
+    }
+  ]
+}

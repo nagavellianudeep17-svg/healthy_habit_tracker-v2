@@ -1,0 +1,51 @@
+id,date,habit,value,notes
+1,2026-11-09,Reading,35,"Atomic Habits, ch. 3"
+2,2026-11-09,Exercise,40,Morning run
+3,2026-11-09,Hydration,1.2,Morning
+4,2026-11-09,Hydration,1.5,Afternoon
+5,2026-11-10,Reading,25,Before bed
+6,2026-11-10,Exercise,30,Gym - upper body
+7,2026-11-10,Hydration,2.6,
+8,2026-11-11,Reading,45,Sci-fi novel
+9,2026-11-11,Exercise,0,Rest day
+10,2026-11-11,Hydration,2.0,
+11,2026-11-12,Reading,30,Exactly on goal
+12,2026-11-12,Exercise,45,Cycling
+13,2026-11-12,Hydration,2.8,
+14,2026-11-13,Reading,0,Skipped - exam stress
+15,2026-11-13,Exercise,20,Short walk
+16,2026-11-13,Hydration,2.8,
+17,2026-11-14,Reading,60,Weekend read
+18,2026-11-14,Exercise,90,Football with friends
+19,2026-11-14,Hydration,3.2,Hot day
+20,2026-11-15,Reading,40,"Read ""Deep Work"", pp. 40-72"
+21,2026-11-15,Exercise,60,"Yoga, stretching"
+22,2026-11-15,Hydration,2.5,Hit the goal
+23,2026-11-16,Reading,20,Short session
+24,2026-11-16,Exercise,35,Jog
+25,2026-11-16,Hydration,2.2,
+26,2026-11-17,Reading,480,Exam prep marathon (max entry)
+27,2026-11-17,Exercise,30,Gym
+28,2026-11-17,Hydration,2.4,
+29,2026-11-18,Reading,15,Tired
+30,2026-11-18,Exercise,300,Charity half-marathon training (max entry)
+31,2026-11-18,Hydration,5.0,Long run recovery (max entry)
+32,2026-11-18,Hydration,1.5,Evening - limit breach day
+33,2026-11-19,Reading,30,"Café study, chapter recap"
+34,2026-11-19,Exercise,25,Walk
+35,2026-11-19,Hydration,2.0,
+36,2026-11-20,Exercise,40,Evening badminton
+37,2026-11-20,Hydration,2.7,Forgot to log reading
+38,2026-11-21,Reading,50,Library
+39,2026-11-21,Exercise,0,Rest day
+40,2026-11-21,Hydration,0.5,Forgot to drink
+41,2026-11-22,Reading,55,Library visit
+42,2026-11-22,Exercise,75,Trek
+43,2026-11-22,Hydration,3.0,
+44,2026-11-23,Reading,30,Back on routine
+45,2026-11-23,Exercise,30,Gym
+46,2026-11-23,Hydration,1.5,Morning
+47,2026-11-23,Hydration,1.2,Afternoon
+48,2026-11-24,Reading,20,Morning pages
+49,2026-11-24,Exercise,35,Walk + stretching
+50,2026-11-24,Hydration,1.0,So far today

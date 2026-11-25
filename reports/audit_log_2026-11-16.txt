@@ -1,0 +1,62 @@
+========================================================================
+HEALTHY HABIT TRACKER - AUDIT LOG
+========================================================================
+Generated      : 2026-11-24 12:29:37
+Week covered   : 2026-11-16 to 2026-11-22
+Records stored : 50 (2026-11-09 to 2026-11-24)
+Wellness score : 80/100 (On track)
+
+HABIT SUMMARY
+------------------------------------------------------------------------
+Reading    total     650 min  avg  92.86/day  goal met 4/7    74%  Behind / Improving
+Exercise   total     505 min  avg  72.14/day  goal met 5/7    83%  On track / Stable
+Hydration  total    19.3 L    avg   2.76/day  goal met 3/7    83%  On track / Declining
+
+KEY TRENDS
+------------------------------------------------------------------------
+* Strongest habit: Hydration at 83% goal completion.
+* Needs attention: Reading at 74% goal completion.
+* Reading goal met on 4 of 7 days.
+* Reading is improving through the week.
+* Exercise goal met on 5 of 7 days.
+* Hydration goal met on 3 of 7 days.
+* Hydration is declining through the week.
+* Hydration completion is down 14 points on the previous week.
+* Longest current streak: Reading with 2 days in a row.
+
+WARNINGS
+------------------------------------------------------------------------
+[CRITICAL] 2026-11-18: Hydration total 6.5 L is above the daily safety limit of 6 L.
+[WARNING] 2026-11-21: only 0.5 L of Hydration (goal 2.5).
+[WARNING] 2026-11-18: unusual Exercise entry #30 of 300 min (over 4x the daily goal). Please double-check it.
+[WARNING] 2026-11-17: unusual Reading entry #26 of 480 min (over 4x the daily goal). Please double-check it.
+[INFO] Reading streak of 3 days is at risk - today's total is 20 of 30 min.
+[INFO] 2026-11-20: no Reading entry although other habits were logged.
+
+RECORDS FOR THIS WEEK
+------------------------------------------------------------------------
+#24   2026-11-16  Exercise        35  Jog
+#25   2026-11-16  Hydration      2.2  
+#23   2026-11-16  Reading         20  Short session
+#27   2026-11-17  Exercise        30  Gym
+#28   2026-11-17  Hydration      2.4  
+#26   2026-11-17  Reading        480  Exam prep marathon (max entry)
+#30   2026-11-18  Exercise       300  Charity half-marathon training (max entry)
+#31   2026-11-18  Hydration        5  Long run recovery (max entry)
+#32   2026-11-18  Hydration      1.5  Evening - limit breach day
+#29   2026-11-18  Reading         15  Tired
+#34   2026-11-19  Exercise        25  Walk
+#35   2026-11-19  Hydration        2  
+#33   2026-11-19  Reading         30  Café study, chapter recap
+#36   2026-11-20  Exercise        40  Evening badminton
+#37   2026-11-20  Hydration      2.7  Forgot to log reading
+#39   2026-11-21  Exercise         0  Rest day
+#40   2026-11-21  Hydration      0.5  Forgot to drink
+#38   2026-11-21  Reading         50  Library
+#42   2026-11-22  Exercise        75  Trek
+#43   2026-11-22  Hydration        3  
+#41   2026-11-22  Reading         55  Library visit
+
+========================================================================
+END OF REPORT
+========================================================================

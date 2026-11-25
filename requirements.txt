@@ -1,0 +1,6 @@
+# Core app (terminal) needs only the Python standard library + Matplotlib for charts
+matplotlib>=3.7
+
+# GUI (optional): modern web interface
+streamlit>=1.30
+pandas>=2.0
